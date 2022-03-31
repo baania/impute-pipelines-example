@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-31T11:23:39.186136Z",
+      "format": null,
+      "last_modified": "2022-03-31T11:22:41.125727Z",
+      "mimetype": null,
+      "name": "pipelines.ipynb",
+      "path": "pipelines.ipynb",
+      "size": 103285,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-31T11:23:39.186136Z",
+      "format": null,
+      "last_modified": "2022-03-31T11:23:37.850130Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 163,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-31T11:23:39.186136Z",
+  "format": "json",
+  "last_modified": "2022-03-31T11:23:39.186136Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
